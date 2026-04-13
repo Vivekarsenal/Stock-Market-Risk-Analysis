@@ -128,6 +128,6 @@ The script generates a 7-panel dark dashboard (`outputs/stock_market_dashboard.p
 
 ## 📬 Contact
 
-Created by **[Your Name]**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+Created by **[Vivek]**  
+📧 iamvivekhere21@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/vivek-02282521a/)
